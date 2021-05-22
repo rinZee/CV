@@ -1,4 +1,4 @@
-### Hi :raising_hand: I'm Tsheten Sherpa
+### Hi :raising_hand_man: I'm Tsheten Sherpa
 
 - :computer: I'm a freelance Frontend Web Developer.
 - :heart: I love to code, build websites and web applications.
