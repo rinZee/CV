@@ -1,6 +1,6 @@
 ### Hi :raising_hand_man: I'm Tsheten Sherpa
 
-- :computer: I'm a freelance Frontend Web Developer.
+- :computer: I'm a Frontend Web Developer.
 - :heart: I love to code, build websites and web applications.
 - :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company**.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
